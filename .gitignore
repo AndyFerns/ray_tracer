@@ -18,8 +18,8 @@ Cargo.lock
 *.pdb
 
 # Ignore Image generated formats
-.png
-.ppm
+*.png
+*.ppm
 
 ### VisualStudioCode ###
 .vscode/*
