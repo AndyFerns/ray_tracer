@@ -17,6 +17,10 @@ Cargo.lock
 # MSVC Windows builds of rustc generate these, which store debugging information
 *.pdb
 
+# Ignore Image generated formats
+.png
+.ppm
+
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
